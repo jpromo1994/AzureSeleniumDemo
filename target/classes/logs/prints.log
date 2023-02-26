@@ -1,0 +1,41 @@
+22:18:49.509 [TestNG-tests-1] INFO  resources.base - Step 3: Close all 
+22:18:49.650 [TestNG-tests-2] INFO  resources.base - Step 3: Close all 
+12:09:19.842 [main] INFO  resources.base - Step 1: Initialize Driver
+12:09:27.532 [main] INFO  resources.base - Step 2: Login-In using the credentials
+12:09:30.796 [main] INFO  resources.base - Step 3: Close all 
+12:09:35.277 [main] INFO  resources.base - Step 1: Initialize Driver
+12:09:40.576 [main] INFO  resources.base - Step 2: Validate text
+12:09:40.958 [main] INFO  resources.base - Step 3: Close all 
+14:18:55.208 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+14:18:55.208 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+14:19:00.112 [TestNG-tests-1] INFO  resources.base - Step 2: Login-In using the credentials
+14:19:03.591 [TestNG-tests-2] INFO  resources.base - Step 2: Validate text
+14:19:03.802 [TestNG-tests-1] INFO  resources.base - Step 3: Close all 
+14:19:03.879 [TestNG-tests-2] INFO  resources.base - Step 3: Close all 
+15:13:41.739 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+15:13:41.739 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+15:13:47.739 [TestNG-tests-1] INFO  resources.base - Step 2: Login-In using the credentials
+15:13:51.329 [TestNG-tests-2] INFO  resources.base - Step 2: Validate text
+15:13:51.481 [TestNG-tests-2] INFO  resources.base - Step 3: Close all 
+15:13:51.513 [TestNG-tests-1] INFO  resources.base - Step 3: Close all 
+16:24:58.811 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+16:24:58.811 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+16:27:33.623 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+16:27:33.623 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+16:28:26.272 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+16:28:26.272 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+16:31:44.675 [main] INFO  resources.base - Step 1: Initialize Driver
+16:32:24.626 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+16:32:24.626 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+16:36:34.154 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+16:36:34.154 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+16:36:46.627 [TestNG-tests-1] INFO  resources.base - Step 2: Login-In using the credentials
+16:36:51.793 [TestNG-tests-2] INFO  resources.base - Step 2: Validate text
+16:36:52.756 [TestNG-tests-2] INFO  resources.base - Step 3: Close all 
+16:36:58.305 [TestNG-tests-1] INFO  resources.base - Step 3: Close all 
+16:59:32.845 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+16:59:32.845 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+16:59:40.769 [TestNG-tests-1] INFO  resources.base - Step 2: Login-In using the credentials
+17:00:53.083 [TestNG-tests-1] INFO  resources.base - Step 3: Close all 
+15:14:09.909 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+15:14:09.909 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver

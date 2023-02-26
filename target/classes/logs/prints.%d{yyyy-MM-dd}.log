@@ -1,0 +1,6 @@
+22:17:37.580 [TestNG-tests-2] INFO  resources.base - Step 1: Initialize Driver
+22:17:37.580 [TestNG-tests-1] INFO  resources.base - Step 1: Initialize Driver
+22:17:42.604 [TestNG-tests-1] INFO  resources.base - Step 2: Login-In using the credentials
+22:17:47.952 [TestNG-tests-2] INFO  resources.base - Step 2: Validate text
+22:17:48.216 [TestNG-tests-1] INFO  resources.base - Step 3: Close all 
+22:17:49.109 [TestNG-tests-2] INFO  resources.base - Step 3: Close all 
